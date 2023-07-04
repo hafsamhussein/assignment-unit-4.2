@@ -1,0 +1,11 @@
+header{
+    background-color: azure;
+}
+.info h2 {
+    background-color: lightgray;
+
+}
+.info img {
+    max-width: 300px;
+    height: auto;
+  }
